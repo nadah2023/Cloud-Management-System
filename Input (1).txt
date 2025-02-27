@@ -1,0 +1,20 @@
+# Use an official Python runtime as a parent image
+FROM python:3.8-slim-buster
+
+# Set the working directory in the container to /app
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+COPY . /app
+
+# Run a command in the container
+CMD ["echo", "Hello, World!"]
+
+
+
+
+path for Dockerfile: C:\Users\User\Desktop\Dockerfile
+Content for Dockerfile: above
+path for Docker image: C:\Users\User\Desktop
+Image name/tag: myapp:v1.0
+
