@@ -44,6 +44,11 @@ This will open the **Cloud Management System** main interface.
    - Specify VM configurations (disk size, memory size, VM name) or upload a batch configuration file.
    - Click **Create VM** to set up the VM.
    - Success messages confirm VM creation.
+  ![image](https://github.com/user-attachments/assets/b403db27-765f-4c35-b51e-61c8ec3d08a0)
+
+  ![image](https://github.com/user-attachments/assets/9f46b563-cc7b-4da8-a626-b0c7cae367ea)
+  
+  ![image](https://github.com/user-attachments/assets/1c862fd4-20c5-4d56-b6d6-15b055eb4206)
 
 2. **Manage Docker Containers**
    - Click **Docker Operations** to manage Docker images and containers.
@@ -55,6 +60,9 @@ This will open the **Cloud Management System** main interface.
      - Stop Docker Containers
      - Search Docker Images
      - DockerHub Operations
+    
+   ![image](https://github.com/user-attachments/assets/62a483bd-2a8c-44e2-9e71-a73a56be0c45)
+
 
 ## Installing Ubuntu from ISO
 To install Ubuntu using the ISO file:
