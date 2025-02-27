@@ -55,13 +55,6 @@ This will open the **Cloud Management System** main interface.
 2. **Manage Docker Containers**
    - Click **Docker Operations** to manage Docker images and containers.
    - Features include:
-     - Create Dockerfile
-     - Build Docker Image
-     - List Docker Images
-     - List Running Containers
-     - Stop Docker Containers
-     - Search Docker Images
-     - DockerHub Operations
     
    ![image](https://github.com/user-attachments/assets/62a483bd-2a8c-44e2-9e71-a73a56be0c45)
 
